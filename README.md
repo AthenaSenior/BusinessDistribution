@@ -13,7 +13,7 @@ Kaynak kodu eklenecektir.
 
 -- EN --
 
-Important note: This system is not using actively. The data for Medyatek Production does not includes the true data since the past works does not added / paid etc. , it only works with test inputs. Source code does not any mistakes.
+Important note: This system is not using actively. The data for Medyatek Production does not includes the true data since the past works does not added / paid etc. , it only works with test inputs. Source code does not have any mistakes.
 
 Still on development process: It will connected with mobile very soon for the complete system. Additionally, announcements sent by the boss will be seen to mobile applications as notifications.
 
